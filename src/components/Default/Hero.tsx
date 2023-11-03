@@ -14,7 +14,7 @@ export default function Hero() {
             <p className="text-5xl text-white m-4 font-serif">Knittershop</p>
 
             <div className="flex flex-1 items-end self-end mb-4">
-                <p className="text-lg text-white w-full m-4 font-serif">No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind.</p>
+                <p className="text-lg text-white w-full m-4 font-serif">" No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind. "</p>
             </div>
 
 
