@@ -11,15 +11,15 @@ export default function Hero() {
             <div className="bg-gradient-to-b from-neutral-800 via-30% via-neutral-500 to-100% to-neutral-800 w-full h-screen absolute -z-10">
                 <Image src={HeroImage} alt={""} className="w-full h-full object-cover absolute mix-blend-overlay"/>
             </div>
-            <p className="text-5xl text-white m-4 font-serif">Knittershop</p>
+            <p className="text-5xl text-white m-4">Knittershop</p>
 
             <div className="flex flex-1 items-end self-end mb-4">
-                <p className="text-lg text-white w-full m-4 font-serif">" No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind. "</p>
+                <p className="text-lg text-white w-full m-4">" No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind. "</p>
             </div>
 
 
             <div className="self-end w-full flex items-center justify-center mb-8">
-                <Link href={"#gallery"} scroll={true} className="text-lg text-white bg-accent rounded-full py-2 px-4 font-serif">Los geht&apos;s</Link>
+                <Link href={"#gallery"} scroll={true} className="text-lg text-white bg-accent rounded-full py-2 px-4">Los geht&apos;s</Link>
             </div>
 
         </div>
